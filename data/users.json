@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Cassidy Williams",
+    "avatar": {
+      "url": "https://avatars1.githubusercontent.com/u/1454517?s=56&v=4",
+      "alt": "Cassidy Williams avatar"
+    },
+    "homeTown": "Chicago, Illinois"
+  },
+  {
+    "id": 2,
+    "name": "Chance Strickland",
+    "avatar": {
+      "url": "https://avatars2.githubusercontent.com/u/3082153?s=56&v=4",
+      "alt": "Chance Strickland avatar"
+    },
+    "homeTown": "San Diego, California"
+  },
+  {
+    "id": 3,
+    "name": "Ryan Florence",
+    "avatar": {
+      "url": "https://avatars1.githubusercontent.com/u/100200?s=56&v=4",
+      "alt": "Ryan Florence avatar"
+    },
+    "homeTown": "Salt Lake City, Utah"
+  }
+]

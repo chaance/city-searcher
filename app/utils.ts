@@ -21,3 +21,16 @@ export function useThrottle(value: any, limit: number) {
 
   return throttledValue;
 }
+
+export function isUrl(url: string) {
+  try {
+    new URL(url);
+    return true;
+  } catch (_) {
+    return false;
+  }
+}
+
+export async function wait(ms: number) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
